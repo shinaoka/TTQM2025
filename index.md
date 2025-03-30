@@ -9,7 +9,7 @@ TTQM2025 continues the long-running series of bilateral workshops between Japane
 September 19 - 22, 2025
 
 # Venue
-[Saitama University](https://www.saitama-u.ac.jp/en/access/)
+[Saitama University](https://en.saitama-u.ac.jp)
 
 # Accommodations
 To be announced.
