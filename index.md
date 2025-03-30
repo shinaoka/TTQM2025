@@ -71,4 +71,4 @@ Free
 -->
 
 # Contact
-compqmb2024_at_issp.u-tokyo.ac.jp (Please replace \_at\_ with @.)
+core-ttqm-admin-jp@googlegroups.com
