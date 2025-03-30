@@ -1,15 +1,17 @@
 ---
-title: TTQM 2025
+title: Trends in the Theory of Quantum Materials (TTQM) 2025
 ---
 
 # About
-This workshop is focused on developing current and future computational methods and applications for quantum many-body systems, providing opportunities for future collaborations. The topics will cover quantum embedding theories, tensor networks, machine learning, and quantum algorithms/information.
+TTQM2025 continues the long-running series of bilateral workshops between Japanese and Swiss physicists in the field of theoretical condensed matter physics. It brings together the leading members of both communities, and also aims at nurturing scientific exchanges, collaborations, and friendships among young physicists working in the two countries.
 
 # Dates 
-September 24 - 27, 2024
+September 19 - 22, 2025
 
+<!--
 # Booklet
 [PDF](/assets/booklet.pdf)
+
 
 # Program
 * [Scientific program](/assets/program.pdf)
@@ -53,24 +55,20 @@ Free
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
 * Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Daniel Marti-Dafcik (University of Oxford, UK)
+-->
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
-* Tsuyoshi Okubo (University of Tokyo)
-* Wataru Mizukami (Osaka University)
-* Kosuke Mitarai (Osaka University)
-
-# Local organizers
-* Kota Ido (University of Tokyo)
-* Takahiro Misawa (University of Tokyo)
-* Naoki Kawashima (University of Tokyo)
+* Chisa Hotta (University of Tokyo)
+* Naoto Tsuji (University of Tokyo)
+* Youichi Yanase (Kyoto University)
 
 # Support
-* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
-* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"
+* MEXT/JSPS KAKENHI Grant Number JPJSBP220259901.
 
-
+<!--
 <img src="./QCHybrid-logo-RGB03.png" alt="FWF" width="25%"/>
+-->
 
 # Contact
 compqmb2024_at_issp.u-tokyo.ac.jp (Please replace \_at\_ with @.)
