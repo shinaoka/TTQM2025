@@ -9,7 +9,11 @@ TTQM2025 continues the long-running series of bilateral workshops between Japane
 September 19 - 22, 2025
 
 # Venue
-[Saitama University](https://en.saitama-u.ac.jp)
+[Saitama University](https://en.saitama-u.ac.jp) ([Access/Map](https://en.saitama-u.ac.jp/about/mapsaccess/))
+
+You can reach Saitama University by taking a local train to nearby stations such as Kitara-Urawa or Minami-Yono, followed by a local bus to the university. Please note that buses can be crowded during rush hours. The first lecture in Saitama University begins at 9:00 AM on weekdays.
+
+
 
 # Program
 To be announced.
@@ -25,7 +29,11 @@ For Swiss participants, we recommend the following hotels:
 * [Candeo Hotels Omiya](https://www.booking.com/hotel/jp/candeo-hotels-omiya.en-gb.html)
 * [Daiwa Roynet Hotel Omiya-nishiguchi](https://www.booking.com/hotel/jp/daiwaroinetutohoteruda-gong-xi-kou.en-gb.html)
 
-We will arrange a bus service from the hotels to the venue.
+On every morning, we will arrange a bus service from the hotels to the venue.
+
+From central Tokyo (Ueno or Tokyo Station), you can take the Shinkansen (bullet train) to Omiya Station, which takes approximately 20 minutes. If you're arriving at Narita Airport, you have two options:
+1. Take the Skyliner (or similar express train) to Ueno Station, then transfer to a local or express train to Omiya Station
+2. Take a direct bus service from either Narita or Haneda airports to Omiya Station
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
