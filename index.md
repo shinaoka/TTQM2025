@@ -11,8 +11,21 @@ September 19 - 22, 2025
 # Venue
 [Saitama University](https://en.saitama-u.ac.jp)
 
-# Accommodations
+# Program
 To be announced.
+
+# Registration
+To be announced.
+
+# Accommodations
+
+We do not reserve rooms for participants. Please make your own reservations.
+For Swiss participants, we recommend the following hotels:
+
+* [Candeo Hotels Omiya](https://www.booking.com/hotel/jp/candeo-hotels-omiya.en-gb.html)
+* [Daiwa Roynet Hotel Omiya-nishiguchi](https://www.booking.com/hotel/jp/daiwaroinetutohoteruda-gong-xi-kou.en-gb.html)
+
+We will arrange a bus service from the hotels to the venue.
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
