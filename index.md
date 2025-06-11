@@ -19,7 +19,7 @@ During rush hours, we recommend boarding the bus at either Kitara-Urawa Station,
 
 
 # Program
-To be announced.
+* [Overview of the schedule](schedule.md)
 
 # Registration
 To be announced.
