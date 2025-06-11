@@ -12,7 +12,7 @@ September 19 - 22, 2025
 [Saitama University](https://en.saitama-u.ac.jp) ([Access/Map](https://en.saitama-u.ac.jp/about/mapsaccess/))
 
 You can reach Saitama University by taking a local train to nearby stations such as Kitara-Urawa or Minami-Yono, followed by a local bus to the university. Please note that buses can be crowded during rush hours. The first lecture in Saitama University begins at 9:00 AM on weekdays.
-
+During rush hours, we recommend boarding the bus at either Kitara-Urawa Station, Minami-Yono Station, Shiki Station, or Kita-Asaka Station, as these are the first stops where you can get a seat. Note that from Minami-Yono Station, there are two bus routes to the university - we specifically recommend taking the route where Minami-Yono is the first stop.
 
 
 # Program
