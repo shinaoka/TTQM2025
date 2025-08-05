@@ -23,6 +23,7 @@ During rush hours, we recommend boarding the bus at either Kitara-Urawa Station,
 
 # Registration
 Deadline: August 24 (JST)
+
 [Registration form](https://forms.gle/8ns5eZhexGBN8kb37)
 
 # Accommodations
