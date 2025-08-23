@@ -22,7 +22,7 @@ During rush hours, we recommend boarding the bus at either Kita-Urawa Station, M
 * [Overview of the schedule](schedule.md)
 
 # Registration
-Deadline: August 24 (JST)
+Deadline: ~~August 24~~ August 31 (JST)
 
 [Registration form](https://forms.gle/8ns5eZhexGBN8kb37)
 
