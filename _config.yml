@@ -4,3 +4,7 @@ plugins:
 
 # Site Settings
 locale                   : "en"
+
+# Disable GitHub repository link
+github:
+  is_project_page: false
