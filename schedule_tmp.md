@@ -32,7 +32,7 @@
   - **Sofie Castro Holbæk** (University of Zurich): *Predicting Superconducting Pairing Symmetry with Quantics Tensor Trains*
   - **Philipp Werner** (University of Fribourg): TBA
 - **Lunch & Discussion & Excursion**
-- **Banquet (18:00–20:30, Ginger's Beach at Candeo Hotels Omiya, 3h)**
+- **Banquet (18:00–20:30, Ginger's Beach at Candeo Hotels Omiya, 2.5h)**
 
 ## Wednesday
 - **[Session 8](#session-8)**:: 2 talks (09:30–10:20, 50 min)
