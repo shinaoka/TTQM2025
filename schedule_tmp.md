@@ -30,7 +30,7 @@
 - **Coffee break** (10:20–10:40, 20 min)
 - **[Session 7](#session-7)**:: 2 talks (10:40–11:30, 50 min)
   - **Sofie Castro Holbæk** (University of Zurich): *Predicting Superconducting Pairing Symmetry with Quantics Tensor Trains*
-  - **Philipp Werner** (University of Fribourg): TBA
+  - **Philipp Werner** (University of Fribourg): *2D coherent spectroscopy of correlated lattice systems*
 - **Lunch & Discussion & Excursion**
 - **Banquet (18:00–20:30, Ginger's Beach at Candeo Hotels Omiya, 2.5h)**
 
