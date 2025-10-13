@@ -11,14 +11,12 @@ October 20 (Mon) - 22 (Wed), 2025
 # Venue
 [Saitama University](https://en.saitama-u.ac.jp) ([Access/Map](https://en.saitama-u.ac.jp/about/mapsaccess/))
 
-
-# Conference Venue
-
 The conference place is located at the 1st floor of the ``Research and Project, 1st Bldg.`` in the campus.
 See Building No. 21 in the [campus map](https://en.saitama-u.ac.jp/studentlife/campus/).
 
 GPS location of the building: [35.8627823097506, 139.60752481449623](https://www.google.com/maps/search/?api=1&query=35.8627823097506,139.60752481449623)
 
+For more details about access to the campus, please see the description below.
 
 # Program
 * [Overview of the schedule](schedule.md)
@@ -37,7 +35,7 @@ For Swiss participants, we recommend the following hotels:
 * [Candeo Hotels Omiya](https://www.booking.com/hotel/jp/candeo-hotels-omiya.en-gb.html)
 * [Daiwa Roynet Hotel Omiya-nishiguchi](https://www.booking.com/hotel/jp/daiwaroinetutohoteruda-gong-xi-kou.en-gb.html)
 
-On every morning, we will arrange a bus service from the hotels to the venue. See [Bus schedule](bus.md).
+On every morning, we will arrange a bus service from the hotels to the venue. See [Bus schedule](bus.html).
 
 # Access to Omiya
 
@@ -50,7 +48,7 @@ From central Tokyo (Ueno or Tokyo Station), you can take the Shinkansen (bullet 
 We will arrange a bus service from Omiya to the venue every morning (see below).
 Any participants who are staying in Omiya are welcome to join the bus.
 
-[Bus schedule](bus.md)
+[Bus schedule](bus.html)
 
 # Access from train stations to the compus
 You can reach Saitama University by taking a local train to nearby stations such as
