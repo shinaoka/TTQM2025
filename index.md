@@ -72,6 +72,14 @@ then take a local bus at [the bus stop](https://www.google.com/maps/search/?api=
 All buses departing from this bus stop go to Saitama University (埼玉大学).
 If there is a queue, please wait for the next bus. Buses are frequent.
 
+# Excursion
+If the weather is fine, we will organize a short excursion from Saitama Shintoshin Station to [Hikawa-jinja Shrine](https://www.japan.travel/en/spot/1525/) in Omiya.
+The approach to the shrine is about 3 km long.
+There are many parks around the shrine where you can enjoy nature.
+A bus from the campus to Saitama Shintoshin Station will depart at 13:00 on 21st October.
+
+If you want to visit other places, please use public transportation. There are many options, including [Kawagoe](https://koedo.or.jp/feel-edo-culture/en/), which is 1 hour away from Saitama Shintoshin Station by local train and bus.
+
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
 * Chisa Hotta (University of Tokyo)
