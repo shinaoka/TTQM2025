@@ -17,11 +17,12 @@ October 20 (Mon) - 22 (Wed), 2025
 The conference place is located at the 1st floor of the ``Research and Project, 1st Bldg.`` in the campus.
 See Building No. 21 in the [campus map](https://en.saitama-u.ac.jp/studentlife/campus/).
 
-GPS location: [35.9116374, 139.4251644](geo:35.9116374,139.4251644)
+GPS location of the building: [35.8627823097506, 139.60752481449623](https://www.google.com/maps/search/?api=1&query=35.8627823097506,139.60752481449623)
 
 
 # Program
 * [Overview of the schedule](schedule.md)
+* [Poster presentations](/assets/posters.pdf)
 
 # Registration
 Deadline: ~~August 24~~ August 31 (JST)
@@ -67,9 +68,8 @@ Google/Apple map may recommend you to take Saikyo Line (SK) to Minami-Yono Stati
 But, we do NOT recommend this route because the buses are crowded.
 
 Instead, you can take Keihin-Tohoku Line (JK) to Kita-Urawa Station,
-then take a local bus at [geo: 35.871569069264034, 139.64573722331843](geo:35.871569069264034,139.64573722331843),
-which is located in front of a burger restraunt (Mos Burger), to Saitama University (埼玉大学).
-All buses departing from this bus stop go to Saitama University.
+then take a local bus at [the bus stop](https://www.google.com/maps/search/?api=1&query=35.871569069264034,139.64573722331843) located in front of a burger restaurant (Mos Burger).
+All buses departing from this bus stop go to Saitama University (埼玉大学).
 If there is a queue, please wait for the next bus. Buses are frequent.
 
 # Organizers
