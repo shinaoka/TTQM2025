@@ -11,11 +11,13 @@ October 20 (Mon) - 22 (Wed), 2025
 # Venue
 [Saitama University](https://en.saitama-u.ac.jp) ([Access/Map](https://en.saitama-u.ac.jp/about/mapsaccess/))
 
-We will arrange a bus service from Omiya to the venue every morning (see below).
-Any participants who are staying in Omiya are welcome to join the bus.
 
-You can reach Saitama University by taking a local train to nearby stations such as Kita-Urawa or Minami-Yono, followed by a local bus to the university. Please note that buses can be crowded during rush hours. The first lecture in Saitama University begins at 9:00 AM on weekdays.
-During rush hours, we recommend boarding the bus at either Kita-Urawa Station, Minami-Yono Station, Shiki Station, or Kita-Asaka Station, as these are the first stops where you can get a seat. Note that from Minami-Yono Station, there are two bus routes to the university - we specifically recommend taking the route where Minami-Yono is the first stop.
+# Conference Venue
+
+The conference place is located at the 1st floor of the ``Research and Project, 1st Bldg.`` in the campus.
+See Building No. 21 in the [campus map](https://en.saitama-u.ac.jp/studentlife/campus/).
+
+GPS location: [35.9116374, 139.4251644](geo:35.9116374,139.4251644)
 
 
 # Program
@@ -24,7 +26,7 @@ During rush hours, we recommend boarding the bus at either Kita-Urawa Station, M
 # Registration
 Deadline: ~~August 24~~ August 31 (JST)
 
-[Registration form](https://forms.gle/8ns5eZhexGBN8kb37)
+[Registration form (closed)]
 
 # Accommodations
 
@@ -34,11 +36,41 @@ For Swiss participants, we recommend the following hotels:
 * [Candeo Hotels Omiya](https://www.booking.com/hotel/jp/candeo-hotels-omiya.en-gb.html)
 * [Daiwa Roynet Hotel Omiya-nishiguchi](https://www.booking.com/hotel/jp/daiwaroinetutohoteruda-gong-xi-kou.en-gb.html)
 
-On every morning, we will arrange a bus service from the hotels to the venue.
+On every morning, we will arrange a bus service from the hotels to the venue. See [Bus schedule](bus.md).
+
+# Access to Omiya
 
 From central Tokyo (Ueno or Tokyo Station), you can take the Shinkansen (bullet train) to Omiya Station, which takes approximately 20 minutes. If you're arriving at Narita Airport, you have two options:
 1. Take the Skyliner (or similar express train) to Ueno Station, then transfer to a local or express train to Omiya Station
 2. Take a direct bus service from either Narita or Haneda airports to Omiya Station
+
+
+# Bus service from Omiya
+We will arrange a bus service from Omiya to the venue every morning (see below).
+Any participants who are staying in Omiya are welcome to join the bus.
+
+[Bus schedule](bus.md)
+
+# Access from train stations to the compus
+You can reach Saitama University by taking a local train to nearby stations such as
+
+* Kita-Urawa Station
+* Minami-Yono Station
+* Shiki Station
+* Kita-Asaka Station
+
+followed by a local bus to the university.
+
+**Important Note on Access from Omiya Station**
+
+Google/Apple map may recommend you to take Saikyo Line (SK) to Minami-Yono Station, then take a local bus.
+But, we do NOT recommend this route because the buses are crowded.
+
+Instead, you can take Keihin-Tohoku Line (JK) to Kita-Urawa Station,
+then take a local bus at [geo: 35.871569069264034, 139.64573722331843](geo:35.871569069264034,139.64573722331843),
+which is located in front of a burger restraunt (Mos Burger), to Saitama University (埼玉大学).
+All buses departing from this bus stop go to Saitama University.
+If there is a queue, please wait for the next bus. Buses are frequent.
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
