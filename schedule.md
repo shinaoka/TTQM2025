@@ -44,7 +44,7 @@
   - **Rico Pohle** (Shizuoka University): *From Spin Nematic Order to Nematic Spin Liquids*
 - **Lunch** (11:30–12:45, 75 min)
 - **[Session 10](#session-10)**:: 2 talks (12:45–13:35, 50 min)
-  - **Jun Takahahsi** (ISSP, University of Tokyo): *Polynomial-time Monte Carlo Proofs for some Quantum Spin Systems*
+  - **Jun Takahashi** (ISSP, University of Tokyo): *Polynomial-time Monte Carlo Proofs for some Quantum Spin Systems*
   - **Frédéric Mila** (EPFL): *Magnetism on the Shastry-Sutherland lattice*
 - **Coffee break** (13:35–13:55, 20 min)
 - **[Session 11](#session-11)**:: 2 talks (13:55–14:45, 50 min)
