@@ -21,7 +21,7 @@
 - **[Session 5](#session-5)**:: 2 talks (15:05–15:55, 50 min)
   - **Tomas Bzdusek** (University of Zurich): *Non-Abelian lattice gauge structures in Cayley crystals*
   - **Zakaria Jouini** (EPFL): *Topological phases of the bilinear-biquadratic spin-1 chain with single-ion anisotropy*
-- **Poster session I** (16:05–18:25, 140 min)
+- **Poster session** (16:05–18:25, 140 min)
 
 ## Tuesday
 - **[Session 6](#session-6)**:: 2 talks (09:30–10:20, 50 min)
