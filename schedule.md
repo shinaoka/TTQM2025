@@ -45,7 +45,7 @@
 - **Lunch** (11:30–12:45, 75 min)
 - **[Session 10](#session-10)**:: 2 talks (12:45–13:35, 50 min)
   - **Jun Takahashi** (ISSP, University of Tokyo): *Polynomial-time Monte Carlo Proofs for some Quantum Spin Systems*
-  - **Frédéric Mila** (EPFL): *Magnetism on the Shastry-Sutherland lattice*
+  - **Frédéric Mila** (EPFL): *New insights into frustrated spin-S chains*
 - **Coffee break** (13:35–13:55, 20 min)
 - **[Session 11](#session-11)**:: 2 talks (13:55–14:45, 50 min)
   - **Jonathan Curtis** (ETH Zurich): *Non-Gaussian noise magnetometry*
