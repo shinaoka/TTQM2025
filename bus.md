@@ -2,7 +2,7 @@
 
 **10/20 (Mon)**
 * Omiya Station (in front of Candeo Hotel) 8:15 → Saitama University 9:00
-* Saitama University 18:00 → Omiya Station (in front of Candeo Hotel)
+* Saitama University 18:30 → Omiya Station (in front of Candeo Hotel)
 
 **10/21 (Tue)**
 * Omiya Station (in front of Candeo Hotel) 8:15 → Saitama University 9:00
